@@ -184,7 +184,7 @@ os.system("clear")
 
 logo()
 
-interestings = ["dev","login","admin","test","lab","signin","redirect","log","sign","temp","research","labs","developer","api","working","sign in","log in","redirecting...","testing","test"]
+interestings = ["auth","dev","login","admin","test","lab","signin","redirect","log","sign","temp","research","labs","developer","api","working","sign in","log in","redirecting...","testing","test"]
 
 sno = 0
 
