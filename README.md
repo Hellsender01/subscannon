@@ -1,2 +1,3 @@
 # subscannon
-![](2020-09-02_11-09.png)
+![](/images/ss1.png)
+![](/images/ss2.png)
