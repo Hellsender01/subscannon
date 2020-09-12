@@ -33,6 +33,8 @@ sudo apt-get install python3-pip
 
 sudo apt-get install python-pip
 
+sudo apt-get install libgcc1:i386
+
 sudo pip install dnspython 2>/dev/null
 
 sudo pip3 install requests
