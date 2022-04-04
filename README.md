@@ -27,6 +27,4 @@ git clone https://github.com/HarshitJosh1/subscannon.git
 
 cd subscannon/
 
-sudo chmod +x setup.sh
-
 sudo bash setup.sh
